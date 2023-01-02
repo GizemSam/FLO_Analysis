@@ -1,4 +1,5 @@
-![alt text]([url=https://ibb.co/qMFMZ1K][img]https://i.ibb.co/qMFMZ1K/crmm.png[/img][/url])
+![alt text](https://www.wiseback.com/wp-content/uploads/2021/11/cxm-crm.jpg)
+
 # İş Problemi (Business Problem)
 --------
 1. FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor.
