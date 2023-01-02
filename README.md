@@ -1,3 +1,4 @@
+![alt text](https://ibb.co/qMFMZ1K)
 # İş Problemi (Business Problem)
 --------
 1. FLO müşterilerini segmentlere ayırıp bu segmentlere göre pazarlama stratejileri belirlemek istiyor.
